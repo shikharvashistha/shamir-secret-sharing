@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Build directory (CMake)
+build/
+
+# Binary output
+bin/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db

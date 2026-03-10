@@ -1,1 +1,0 @@
-gcc    CMakeFiles/shamir_secret_sharing.dir/src/shamir_secret_sharing.c.o  -o ../bin/shamir_secret_sharing 
